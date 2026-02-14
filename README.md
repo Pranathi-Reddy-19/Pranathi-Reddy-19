@@ -1,16 +1,75 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Pranathi;%F0%9F%8E%93+CS+Student+%7C+%F0%9F%A4%96+AI+Enthusiast+%7C+%F0%9F%92%BB+Problem+Solver)](https://git.io/typing-svg)
+## 👋 Hi, I'm Pranathi
 
-<!--
-**Pranathi-Reddy-19/Pranathi-Reddy-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student | 🤖 AI Enthusiast | 💻 Problem Solver  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- Curious techie who loves building real-world projects  
+- Exploring Machine Learning, Mobile Development & GenAI  
+- Passionate about turning ideas into working products  
+
+---
+
+### 🛠 Tech Stack
+
+**Languages:**  
+Java • C • C++ • Python • JavaScript  
+
+**Web & Mobile:**  
+HTML • CSS • React.js • Node.js • Express.js • Flutter • Flask (API)  
+
+**Databases:**  
+SQL • MongoDB • Firebase  
+
+**AI / ML:**  
+Transformers • LLMs (llama.cpp) • GANs • Agentic AI  
+
+**Tools:**  
+Git • GitHub • VS Code • Docker (Basics)  
+
+**Core CS:**  
+OOP • Data Structures • DBMS • OS • Computer Networks • Software Engineering  
+
+---
+
+### 🚀 Projects
+
+📅 **Calendar AI Assistant**  
+- Integrated LLM with calendar for natural language scheduling  
+
+💎 **Jewelry Design Generation using GANs**  
+- Generated creative jewelry designs using Generative Adversarial Networks
+
+🛠 **AI Public Maintainence System**
+- Designed an AI-driven platform for universities and gated communities to automate maintenance requests and technician
+dispatch.
+
+🎵 **Melody Mind**
+- Created an AI-powered music player with mood detection, voice commands, and smart song recommendations.
+
+---
+
+### 🎓 Education
+
+B.Tech Computer Science (2023 – May 2027)  
+📊 GPA: 8.56  
+
+Intermediate (Completed June 2023)  
+📊 GPA: 9.5  
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Pranathi-Reddy-19&show_icons=true)
+
+---
+
+### 🔥 Streak
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranathi-Reddy-19)
+
+---
+
+### 📫 Connect with me  
+📧 19pranathi@gmail.com
