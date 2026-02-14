@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Pranathi;%F0%9F%8E%93+CS+Student+%7C+%F0%9F%A4%96+AI+Enthusiast+%7C+%F0%9F%92%BB+Problem+Solver)](https://git.io/typing-svg)
 ## 👋 Hi, I'm Pranathi
 
 🎓 CS Student | 🤖 AI Enthusiast | 💻 Problem Solver  
