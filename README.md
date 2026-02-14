@@ -61,7 +61,7 @@ Intermediate (Completed June 2023)
 ---
 
 ### 📊 GitHub Stats
-![Pranathi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pranathi-Reddy-19&show_icons=true&theme=tokyonight)
+![Pranathi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pranathi-Reddy-19&show_icons=true&theme=tokyonight)
 
 ---
 
