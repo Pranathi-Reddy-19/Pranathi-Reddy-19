@@ -72,4 +72,3 @@ Intermediate (Completed June 2023)
 
 ### 📫 Connect with me  
 📧 19pranathi@gmail.com
-![Snake](https://raw.githubusercontent.com/Pranathi-Reddy-19/Pranathi-Reddy-19/output/github-contribution-grid-snake.svg)
