@@ -77,3 +77,4 @@ Intermediate (April 2021 - June 2023)
 
 ### 📫 Connect with me  
 📧 19pranathi@gmail.com
+**Instagram** : pranathi_reddy19
