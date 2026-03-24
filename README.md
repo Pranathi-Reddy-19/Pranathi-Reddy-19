@@ -76,6 +76,6 @@ Intermediate (April 2021 - June 2023)
 ---
 
 ### 📫 Connect with me  
-**Mail** : 19pranathi@gmail.com
-**LinkedIn** : https://leetcode.com/u/pranathibareddy19/
-**Instagram** : pranathi_reddy19
+**Mail** : 19pranathi@gmail.com | 
+**LinkedIn** : https://leetcode.com/u/pranathibareddy19/ | 
+**Instagram** : https://www.instagram.com/pranathi_reddy19/
