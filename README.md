@@ -36,26 +36,31 @@ OOP • Data Structures • DBMS • OS • Computer Networks • Software Engin
 ### 🚀 Projects
 
 📅 **Calendar AI Assistant**  
-- Integrated LLM with calendar for natural language scheduling  
+- Optimized and deployed an on-device LLM for mobile QA using llama.cpp and quantization to enable efficient, offline natural language processing via Termux.
 
-💎 **Jewelry Design Generation using GANs**  
-- Generated creative jewelry designs using Generative Adversarial Networks
+📊 **Easy Business Interface**
+- An AI-powered system that transforms natural language queries into automated SQL and interactive BI dashboards, making data-driven insights accessible to non-technical users.
 
 🛠 **AI Public Maintainence System**
 - Designed an AI-driven platform for universities and gated communities to automate maintenance requests and technician
 dispatch.
 
+🧠 **Context-IQ**
+- AI platform that connects scattered workplace conversations and data, understands their meaning, and helps teams make smarter, more informed decisions.
+
+💎 **Jewelry Design Generation using GANs**  
+- Generated creative jewelry designs using Generative Adversarial Networks
+
 🎵 **Melody Mind**
 - Created an AI-powered music player with mood detection, voice commands, and smart song recommendations.
-
 ---
 
 ### 🎓 Education
 
-B.Tech Computer Science (2023 – May 2027)  
+B.Tech Computer Science (September 2023 – May 2027)  
 📊 GPA: 8.56  
 
-Intermediate (Completed June 2023)  
+Intermediate (April 2021 - June 2023)  
 📊 GPA: 9.5  
 
 ---
