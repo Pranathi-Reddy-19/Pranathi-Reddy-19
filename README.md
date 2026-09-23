@@ -65,16 +65,6 @@ Intermediate (April 2021 - June 2023)
 
 ---
 
-### 📊 GitHub Stats
-![Pranathi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pranathi-Reddy-19&show_icons=true&theme=tokyonight)
-
----
-
-### 🔥 Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranathi-Reddy-19)
-
----
-
 ### 📫 Connect with me  
 **Mail** : 19pranathi@gmail.com | 
 **LinkedIn** : https://leetcode.com/u/pranathibareddy19/ | 
