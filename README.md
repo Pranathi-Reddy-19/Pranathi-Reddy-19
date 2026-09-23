@@ -34,6 +34,11 @@ OOP • Data Structures • DBMS • OS • Computer Networks • Software Engin
 ---
 
 ### 🚀 Projects
+💲 **AI Finance Controller**
+- Built an automated bank-to-ledger reconciliation system using multi-signal matching, confidence-based exception handling, and an LLM-powered interface for querying financial reconciliation results.
+
+🪙 **Crypto Portfolio Tracker**
+- Developed a full-stack web application to solve the real-world problem of portfolio management for crypto investors, enabling users to track prices and manage virtual holdings.
 
 📅 **Calendar AI Assistant**  
 - Optimized and deployed an on-device LLM for mobile QA using llama.cpp and quantization to enable efficient, offline natural language processing via Termux.
